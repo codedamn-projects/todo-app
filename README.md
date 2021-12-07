@@ -1,6 +1,6 @@
 # codedamn - Todo app
 
-![Design for the project](./assets/desktop-design.jpg)
+![Design for the project](https://raw.githubusercontent.com/codedamn-projects/todo-app/main/assets/desktop-design.jpg)
 
 ## Hello developer!
 
