@@ -1,6 +1,6 @@
 # codedamn - Todo app
 
-![Design for the project](./assets/add-todo-mobile.jpg)
+![Design for the project](./assets/desktop-design.jpg)
 
 ## Hello developer!
 
