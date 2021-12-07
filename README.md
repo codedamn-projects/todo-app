@@ -1,6 +1,6 @@
 # codedamn - Todo app
 
-![Design for the project](https://raw.githubusercontent.com/codedamn-projects/todo-app/main/assets/add-todo-mobile.jpg?token=AMDCPMMB3WABB4D5VISWLLTBVOLC2)
+![Design for the project](./assets/add-todo-mobile.jpg)
 
 ## Hello developer!
 
