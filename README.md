@@ -14,10 +14,10 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your project should:
 
--   Be responsive for desktop and mobile phones
--   Have minimum functionalities and effects working
+- Be responsive for desktop and mobile phones
+- Have minimum functionalities and effects working
 
-Want some support on the challenge? [Join our discord community](https://cdm.sh/discord) and ask questions in the **#general** channel.
+Want some support on the challenge? [Join our discord community](https://discord.gg/codedamn) and ask questions in the **#general** channel.
 
 ## Where to find everything
 
@@ -27,7 +27,13 @@ The designs are in image formats (sketch and figma designs coming soon).
 
 You will find all the required assets in the `/assets` folder. These include images, fonts, etc.
 
-There is also a `style-guide.html` file containing the information you'll need, such as color palette and font names. Make sure to open this in the browser to see the contents.
+### Styles
+
+Gradient used for the background: `linear-gradient(139deg, #c13e3e 0%, #e6b332 100%)`
+
+Font used: `Poppins`
+    - Font weight: `400` (Regular)
+    - src : `assets/fonts/Poppins-Regular.ttf`
 
 ## Submitting solution
 
@@ -35,6 +41,6 @@ Submit your solution on the platform for the rest of the community to see. Find 
 
 Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
 
-## Send feedback!
+## Send feedback
 
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please visit [codedamn feedback page](https://codedamn.com/contact)
